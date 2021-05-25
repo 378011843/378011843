@@ -584,6 +584,10 @@ section.padding-60 {
 	-moz-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
+.service-item i{
+	font-size: 24px;
+	color: #FF5959;
+}
 
 .service-item:hover {
 	border-color: #FF5959;
